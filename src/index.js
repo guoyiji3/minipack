@@ -1,2 +1,2 @@
-import { greeting } from './greeting.js'
-document.write(greeting('jane'))
+import { hello } from './hello.js'
+document.write(hello('jane'))
